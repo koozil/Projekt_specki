@@ -46,23 +46,23 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="../img/1.jpg" alt="...">
+                <img src="img/1.jpg" alt="...">
 
               </div>
               <div class="item">
-                <img src="../img/2.jpeg" alt="...">
+                <img src="img/2.jpeg" alt="...">
 
               </div>
               <div class="item">
-                <img src="../img/3.jpg" alt="...">
+                <img src="img/3.jpg" alt="...">
 
               </div>
               <div class="item">
-                <img src="../img/4.jpg" alt="...">
+                <img src="img/4.jpg" alt="...">
 
               </div>
               <div class="item">
-                <img src="../img/5.jpg" alt="...">
+                <img src="img/5.jpg" alt="...">
 
               </div>
             </div>
@@ -121,7 +121,7 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="../dist/js/bootstrap.min.js"></script>
+    <script src="dist/js/bootstrap.min.js"></script>
     <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
     <script src="../assets/js/vendor/holder.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
