@@ -1,5 +1,4 @@
 <?php
-include 'nav.php';
 include 'database.class.php';
 
 ob_start();
