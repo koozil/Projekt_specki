@@ -56,6 +56,7 @@ class Database
         if ($this->kodowanie) {
             $this->_mysqli->set_charset($this->kodowanie);
         }
+        return $this;
     }
     
     public function zapytanie($zapytanie, $iloscwierszy = null)
