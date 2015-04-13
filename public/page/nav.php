@@ -39,13 +39,13 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Cat-o-pedia</a>
+            <a class="navbar-brand" href="index.php">Cat-o-pedia</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">Dashboard</a></li>
-                <li><a href="#">Settings</a></li>
-                <li><a href="#">Profile</a></li>
+                <li><a href="single.php">Cóż to?</a></li>
+                <li><a href="list.php">Lista kotełów</a></li>
+                <li><a href="add.php">Dodaj koteła</a></li>
                 <li><a href="#">Help</a></li>
             </ul>
             <form class="navbar-form navbar-right">
