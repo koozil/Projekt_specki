@@ -6,7 +6,7 @@ ob_start();
 include 'page/nav.php';
 
 
-include 'page/about.php';
+include 'page/single.php';
 include 'page/footer.php';
 
 ob_end_flush();
