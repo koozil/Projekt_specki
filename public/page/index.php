@@ -1,25 +1,18 @@
-<div class="container-fluid">
-      <div class="row">
-        <div class="col-sm-3 col-md-2 sidebar">
-          <ul class="nav nav-sidebar">
-            <li class="active"><a href="#">Overview <span class="sr-only">(current)</span></a></li>
-            <li><a href="#">Reports</a></li>
-            <li><a href="#">Analytics</a></li>
-            <li><a href="#">Export</a></li>
-          </ul>
 
         </div>
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
          <h3>f0rg3t h0w t0 pr0grezz</h3> <div class="progress">
-            <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 4%">
-              <span class="sr-only">10% Complete</span>
+            <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+              <span class="sr-only">60% Complete</span>
             </div>
           </div>
-          <h1 class="page-header">Na dobry początek... kocięta :D</h1>
+          <h1 class="page-header">Cats on carousel :D</h1>
 
+            <h2 class="page-header">it's funny.</h2>
 
+            <h3 class="page-header">trust me...</h3>
 
-          <div class="row"><div class="col-lg-6">
+<center>
          <div class="container-fluid">
           <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="
 
@@ -72,37 +65,14 @@
           </div>
 
           </div>
+</center>
           </div>
 
           </div>
 
-            <div class="row">
-                <div class="col-md-6"></div>
-                <div class="col-md-6"></div>
-            </div>
 
-          <div class="row placeholders">
-            <div class="col-xs-6 col-sm-3 placeholder">
 
-              <h4>Label</h4>
-              <span class="text-muted">Something else</span>
-            </div>
-            <div class="col-xs-6 col-sm-3 placeholder">
 
-              <h4>Label</h4>
-              <span class="text-muted">Something else</span>
-            </div>
-            <div class="col-xs-6 col-sm-3 placeholder">
-
-              <h4>Label</h4>
-              <span class="text-muted">Something else</span>
-            </div>
-            <div class="col-xs-6 col-sm-3 placeholder">
-
-              <h4>Label</h4>
-              <span class="text-muted">Something else</span>
-            </div>
-          </div>
 
 
 

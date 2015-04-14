@@ -43,14 +43,38 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="single.php">Cóż to?</a></li>
-                <li><a href="list.php">Lista kotełów</a></li>
-                <li><a href="add.php">Dodaj koteła</a></li>
-                <li><a href="#">Help</a></li>
+                <li><a href="https://github.com/koozil">Bout' me</a></li>
+                <li><a href="https://github.com/koozil/Projekt_specki">about project</a></li>
+                <li><a href="single.php">WTF iz th4T?</a></li>
+                <li><a href="list.php">CATZ</a></li>
+                <li><a href="add.php">add som c4ts (coming soon)</a></li>
+                <li><a href="#">H4lp</a></li>
             </ul>
             <form class="navbar-form navbar-right">
-                <input type="text" class="form-control" placeholder="Search...">
+
             </form>
         </div>
     </div>
 </nav>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar">
+            <ul class="nav nav-sidebar">
+                <center>
+                <li><h3>catz quotes</h3></li></center>
+                <blockquote>
+                    <p>Nic oprócz człowieka nie jest z natury mściwe i okrutne, może z wyjątkiem nienawistnego kota.</p>
+                    <footer>Olaf Stapledon <cite title="Source Title">Syriusz</cite></footer>
+                </blockquote>
+                <blockquote>
+                    <p>Koty to skur****ny matki natury! Mój mi ukradł ludzika lego. I ja się pytam: "Gdzie mój ludzik LEGO?!" </p>
+                    ... NIE POWIEDZIAŁ!
+                    <footer>Jakub Dębski<cite title="Source Title">Dem3000</cite></footer>
+                </blockquote>
+                <blockquote>
+                    <p>NOTICE ME SENPAI!</p>
+                    <footer>PewDiePie<cite title="Source Title">...</cite></footer>
+                </blockquote>
+
+
+            </ul>
